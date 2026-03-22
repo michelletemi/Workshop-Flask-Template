@@ -29,7 +29,7 @@ Examples:
 - `study-planner`
 
 Your repository URL will look like:  
-👉 https://github.com/<your-username>/<projectname>  
+👉 https://github.com/Your-Username/Project-Name>  
 
 Example:  
 👉 https://github.com/michelletemi/Workshop-Flask-Template  
@@ -40,9 +40,10 @@ Example:
 ## 💻 Run locally (Visual Studio Code)
 
 ### 1. Clone the repo:
-    - Open VS Code
-    - Open Terminal (Terminal > New Terminal)
-    - Run:
+- Open Visual Studio Code
+- Open Terminal (Terminal > New Terminal)
+- Run:
+
 ```bash
 git clone https://github.com/<your-username>/<projectname>
 cd <project-name>
