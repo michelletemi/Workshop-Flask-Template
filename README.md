@@ -34,21 +34,36 @@ For example: https://github.com/michelletemi/Workshop-Flask-Template
 
 ## 💻 Run locally (Visual Studio Code)
 
-2. Clone the repo:
+1. Clone the repo:
     - Open VS Code
     - Open Terminal (Terminal > New Terminal)
     - Run:
 ```bash
 git clone https://github.com/<your-username>/<projectname>
 cd <project-name>
+```
+
+### 2. Run the application
+In the terminal, run:
+
+```bash
+python main.py
+```
+
+- A URL will appear in the terminal (e.g. http://127.0.0.1:5000)  
+- Copy and paste it into your browser  
+- You should now see your app running 🎉  
 
 ---
 
 ## 🌐 Alternative: Run on Replit
 
-1. If you don’t want to install anything locally:
-2. 1. Go to [Replit](https://replit.com).
-3. Click **Import code or design** → Github → Paste your repository link.
-4. Click **Run** → Open the public URL.
+If you don’t want to install anything locally, you can run this in your browser:
 
----
+1. Go to 👉 https://replit.com  
+2. Click **"Import code or design"**  
+3. Select **GitHub**  
+4. Paste your repository link  
+5. Click **Import**  
+6. Click **Run**  
+7. Open the public URL to view your app  
