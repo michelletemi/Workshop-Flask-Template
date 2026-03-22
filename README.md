@@ -20,21 +20,26 @@ You will use this template to create your own project and begin building your te
 
 ## 🚀 Create your projects repository
 Use this repository as a template 
-    - Click **'Use this template'** 
-    - Select **'Create a new repository'** 
-    - Rename it to your project name 
-    Example
-        - my-portfolio-app
-        - study-planner
+1. Click **"Use this template"**  
+2. Select **"Create a new repository"**  
+3. Rename it to your project name  
 
-Your repository URL will be: https://github.com/<your-username>/<projectname>
-For example: https://github.com/michelletemi/Workshop-Flask-Template
+Examples:
+- `my-portfolio-app`
+- `study-planner`
+
+Your repository URL will look like:  
+👉 https://github.com/<your-username>/<projectname>  
+
+Example:  
+👉 https://github.com/michelletemi/Workshop-Flask-Template  
+
 
 ---
 
 ## 💻 Run locally (Visual Studio Code)
 
-1. Clone the repo:
+### 1. Clone the repo:
     - Open VS Code
     - Open Terminal (Terminal > New Terminal)
     - Run:
